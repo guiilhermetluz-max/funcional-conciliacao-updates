@@ -1,9 +1,9 @@
 {
   "product": "funcional-conciliacao-clientes",
-  "version": "2.9.8",
+  "version": "2.9.9",
   "published_at": "2026-10-27",
-  "notes": "Funcional Conciliação v2.9.8: atualizações e melhorias.",
-  "download_url": "https://github.com/guiilhermetluz-max/funcional-conciliacao-updates/releases/download/v2.9.8/Funcional_Conciliacao_Clientes_v2_9_8.exe",
-  "sha256": "f2f11b142401a5351b709dacda43a85a5c0fb5edf8642affc64fb97e734ca62d",
-  "size_bytes": 22982105
+  "notes": "Funcional Conciliação v2.9.9: atualizações e melhorias.",
+  "download_url": "https://github.com/guiilhermetluz-max/funcional-conciliacao-updates/releases/download/v2.9.9/Funcional_Conciliacao_Clientes_v2_9_9.exe",
+  "sha256": "1c3d9f79b64dfc53ad0f433182605cf9bc21aabf8fccb916e011e1ba0068f962",
+  "size_bytes": 22988614
 }
