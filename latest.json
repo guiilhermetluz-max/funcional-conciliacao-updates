@@ -1,6 +1,9 @@
 {
   "product": "funcional-conciliacao-clientes",
-  "version": "2.9.4",
+  "version": "2.9.6",
   "published_at": "2026-10-27",
-  "notes": "Verificação de atualizações sem login no GitHub. Código-fonte e relatórios de clientes permanecem privados."
+  "notes": "Funcional Conciliação v2.9.6: atualizações e melhorias.",
+  "download_url": "https://github.com/guiilhermetluz-max/funcional-conciliacao-updates/releases/download/v2.9.6/Funcional_Conciliacao_Clientes_v2_9_6.exe",
+  "sha256": "4b5f6ff1c9729cb6af2a7e3d3cee228362bf079fb6fd078e0a56cce2143983c9",
+  "size_bytes": 22942575
 }
